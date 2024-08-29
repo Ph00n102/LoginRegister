@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HlOIc9RkyyxasKibZEztMsUDSMvLYjKY+DrGPlv/Z8I=",
+  "Source": "DotnetStockApi",
+  "BasePath": "_content/DotnetStockApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

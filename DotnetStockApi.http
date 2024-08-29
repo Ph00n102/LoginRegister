@@ -1,0 +1,6 @@
+@DotnetStockApi_HostAddress = http://localhost:5073/api
+
+GET {{DotnetStockApi_HostAddress}}/Authenticate/tastconnectdb
+Accept: application/json
+
+###
